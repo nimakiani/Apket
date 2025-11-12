@@ -480,7 +480,7 @@ class _MyAppState extends State<Home> {
                           ),
                           InfoRow(
                             icon: Icons.calendar_today,
-                            label: 'تاریخ نصب',
+                            label: 'نسخه',
                             value: '${app.versionName} (${app.versionCode})',
                             isDark: isDark,
                           ),
